@@ -6,6 +6,6 @@ line2
 line3
 */
 
-echo "Hello world3";      # this is also comment and is like inline comment
+echo "Hello world5";      # this is also comment and is like inline comment
 ?>
 
